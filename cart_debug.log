@@ -1,0 +1,2905 @@
+2025-06-04 11:03:42 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 100
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1014/8/1/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 09:56:59
+        )
+
+)
+
+2025-06-04 11:03:44 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 100
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1014/8/1/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 09:56:59
+        )
+
+)
+
+2025-06-04 11:03:47 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 100
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1014/8/1/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 09:56:59
+        )
+
+)
+
+2025-06-04 11:03:48 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 100
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1014/8/1/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 09:56:59
+        )
+
+)
+
+2025-06-04 11:04:04 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 100
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1014/8/1/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 09:56:59
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:04:10 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 99
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002/2/1/8001/4006
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 09:50:46
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:04:12 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:24:00 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:36:43 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:36:45 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 11:40:14 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 98
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 101240108000
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 09:37:55
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 101
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1008/5/1/8005/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 10:04:04
+        )
+
+)
+
+2025-06-04 15:02:04 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1015-9002-3008/3008/9002/8001/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-04 14:02:04
+        )
+
+)
+
+2025-06-04 15:03:13 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1015-9002-3008/3008/9002/8001/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-04 14:02:04
+        )
+
+)
+
+2025-06-04 15:05:13 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1015-9002-3008/3008/9002/8001/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-04 14:02:04
+        )
+
+)
+
+2025-06-04 15:10:59 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1015-9002-3008/3008/9002/8001/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-04 14:02:04
+        )
+
+)
+
+2025-06-04 15:50:30 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+)
+
+2025-06-04 15:50:45 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+)
+
+2025-06-04 15:53:08 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 97
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 100540158002
+            [quantidade] => 1
+            [data_adicao] => 2025-05-30 13:56:51
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 102
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1003-9002-30/3002/9002/8000/4006
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 14:53:08
+        )
+
+)
+
+2025-06-04 15:56:13 - Itens no carrinho
+Array
+(
+)
+
+2025-06-04 15:56:22 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 103
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-30/3003/9004/8001/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-04 14:56:22
+        )
+
+)
+
+2025-06-04 16:02:08 - Itens no carrinho
+Array
+(
+)
+
+2025-06-04 16:02:24 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 104
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1007-9002-30/3004/9002/8000/4021
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 15:02:24
+        )
+
+)
+
+2025-06-04 16:06:02 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 104
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1007-9002-30/3004/9002/8000/4021
+            [quantidade] => 5
+            [data_adicao] => 2025-06-04 15:02:24
+        )
+
+)
+
+2025-06-04 16:46:11 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-3003/3003/9004/8001/4015
+            [quantidade] => 7
+            [data_adicao] => 2025-06-04 15:46:11
+        )
+
+)
+
+2025-06-04 16:51:23 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+)
+
+2025-06-04 16:51:45 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1001-9002-3001/3001/9002/8001/4003
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 15:51:45
+        )
+
+)
+
+2025-06-05 10:09:10 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1001-9002-3001/3001/9002/8001/4003
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 15:51:45
+        )
+
+    [5] => Array
+        (
+            [id_carrinho] => 11
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-3003/3003/9004/8002/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-05 09:09:09
+        )
+
+)
+
+2025-06-05 10:13:08 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 10
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1001-9002-3001/3001/9002/8001/4003
+            [quantidade] => 6
+            [data_adicao] => 2025-06-04 15:51:45
+        )
+
+    [5] => Array
+        (
+            [id_carrinho] => 11
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-3003/3003/9004/8002/4015
+            [quantidade] => 4
+            [data_adicao] => 2025-06-05 09:09:09
+        )
+
+)
+
+2025-06-05 10:54:13 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 13
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-3003/3003/9004/8001/4015
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 09:54:13
+        )
+
+)
+
+2025-06-05 10:57:41 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 14
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008/3008/9001/8002/4021
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 09:57:41
+        )
+
+)
+
+2025-06-05 12:04:33 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+)
+
+2025-06-05 13:40:51 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 15
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1006-9001-3004/3004/9001/8000/4021
+            [quantidade] => 5
+            [data_adicao] => 2025-06-05 12:40:51
+        )
+
+)
+
+2025-06-05 13:46:39 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 15
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1006-9001-3004/3004/9001/8000/4021
+            [quantidade] => 5
+            [data_adicao] => 2025-06-05 12:40:51
+        )
+
+)
+
+2025-06-05 13:48:03 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 1
+            [id_utilizador] => 
+            [session_id] => d38128ab6c55d4a4678c921f62016f69
+            [sku] => 1000-9001-3001-4001-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 17:09:36
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 2
+            [id_utilizador] => 
+            [session_id] => 204c6caeec013f13a8fbc3be36c9465a
+            [sku] => 1000-9001-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 18:54:09
+        )
+
+    [2] => Array
+        (
+            [id_carrinho] => 3
+            [id_utilizador] => 
+            [session_id] => 00cea1ce16edc6ae698bde3e427be266
+            [sku] => 1000-9001-3001-4002-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-02-26 19:00:33
+        )
+
+    [3] => Array
+        (
+            [id_carrinho] => 9
+            [id_utilizador] => 
+            [session_id] => 5m35acs4li7ls6g317nfado21l
+            [sku] => 1001-9002-3001-4001-8002
+            [quantidade] => 1
+            [data_adicao] => 2025-02-27 15:06:01
+        )
+
+    [4] => Array
+        (
+            [id_carrinho] => 15
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1006-9001-3004/3004/9001/8000/4021
+            [quantidade] => 5
+            [data_adicao] => 2025-06-05 12:40:51
+        )
+
+    [5] => Array
+        (
+            [id_carrinho] => 16
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1005-9004-3003-4015-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 12:48:03
+        )
+
+)
+
+2025-06-05 13:50:10 - Itens no carrinho
+Array
+(
+)
+
+2025-06-05 13:50:49 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:51:54 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:51:55 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:52:49 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:52:51 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:53:53 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:54:48 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:54:49 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:55:33 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:55:34 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:55:38 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:57:24 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:57:26 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:59:44 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:59:45 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 13:59:48 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 14:01:13 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 14:01:14 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 14:07:20 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 14:07:22 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+)
+
+2025-06-05 14:08:11 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:08:28 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:08:29 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:08:30 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:08:30 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:10:26 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+Array
+(
+    [sku] => 1014-9001-3008-4022-8000
+    [codigo_base] => 1014
+    [codigo_marca] => 9001
+    [codigo_categoria] => 3008
+    [codigo_tamanho] => 4022
+    [codigo_cor] => 8000
+    [produto] => 
+    [marca] => Array
+        (
+            [nome] => Everlast
+        )
+
+    [categoria] => Array
+        (
+            [nome] => Acessórios
+        )
+
+    [tamanho] => Array
+        (
+            [descricao] => 4.0 m
+        )
+
+    [cor] => Array
+        (
+            [descricao] => Preto
+        )
+
+)
+Array
+(
+    [sku] => 1002-9001-3002-4005-8001
+    [codigo_base] => 1002
+    [codigo_marca] => 9001
+    [codigo_categoria] => 3002
+    [codigo_tamanho] => 4005
+    [codigo_cor] => 8001
+    [produto] => 
+    [marca] => Array
+        (
+            [nome] => Everlast
+        )
+
+    [categoria] => Array
+        (
+            [nome] => Sacos
+        )
+
+    [tamanho] => Array
+        (
+            [descricao] => 30 kg
+        )
+
+    [cor] => Array
+        (
+            [descricao] => Branco
+        )
+
+)
+2025-06-05 14:10:27 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+Array
+(
+    [sku] => 1014-9001-3008-4022-8000
+    [codigo_base] => 1014
+    [codigo_marca] => 9001
+    [codigo_categoria] => 3008
+    [codigo_tamanho] => 4022
+    [codigo_cor] => 8000
+    [produto] => 
+    [marca] => Array
+        (
+            [nome] => Everlast
+        )
+
+    [categoria] => Array
+        (
+            [nome] => Acessórios
+        )
+
+    [tamanho] => Array
+        (
+            [descricao] => 4.0 m
+        )
+
+    [cor] => Array
+        (
+            [descricao] => Preto
+        )
+
+)
+Array
+(
+    [sku] => 1002-9001-3002-4005-8001
+    [codigo_base] => 1002
+    [codigo_marca] => 9001
+    [codigo_categoria] => 3002
+    [codigo_tamanho] => 4005
+    [codigo_cor] => 8001
+    [produto] => 
+    [marca] => Array
+        (
+            [nome] => Everlast
+        )
+
+    [categoria] => Array
+        (
+            [nome] => Sacos
+        )
+
+    [tamanho] => Array
+        (
+            [descricao] => 30 kg
+        )
+
+    [cor] => Array
+        (
+            [descricao] => Branco
+        )
+
+)
+2025-06-05 14:11:41 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:12:29 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:12:30 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:12:30 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:12:31 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:01 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:01 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:01 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:02 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:02 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:02 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:02 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:03 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:13:55 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:15:04 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:17:49 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:17:50 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:17:52 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:19:00 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:19:01 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:20:35 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:21:16 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:21:19 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:23:57 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:23:59 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:24:03 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:25:33 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:28:39 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 17
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1014-9001-3008-4022-8000
+            [quantidade] => 3
+            [data_adicao] => 2025-06-05 12:50:48
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 18
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8001
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 13:08:11
+        )
+
+)
+
+2025-06-05 14:33:28 - Itens no carrinho
+Array
+(
+)
+
+2025-06-05 16:20:10 - Itens no carrinho
+Array
+(
+)
+
+2025-06-05 16:22:24 - Itens no carrinho
+Array
+(
+)
+
+2025-06-05 16:22:25 - Itens no carrinho
+Array
+(
+)
+
+2025-06-05 16:22:35 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 
+            [session_id] => vscgnhei59d9t4uf4gk40s34np
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:22:44 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 
+            [session_id] => vscgnhei59d9t4uf4gk40s34np
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:26:46 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:26:59 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:27:03 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:27:08 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:41:31 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:48:06 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 16:48:20 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 20
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1000-9001-3001-4002-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:48:20
+        )
+
+)
+
+2025-06-05 17:06:09 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+)
+
+2025-06-05 17:14:23 - Itens no carrinho
+Array
+(
+    [0] => Array
+        (
+            [id_carrinho] => 19
+            [id_utilizador] => 5
+            [session_id] => 
+            [sku] => 1002-9001-3002-4005-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 15:22:35
+        )
+
+    [1] => Array
+        (
+            [id_carrinho] => 21
+            [id_utilizador] => 4
+            [session_id] => 
+            [sku] => 1012-9001-3007-4011-8000
+            [quantidade] => 1
+            [data_adicao] => 2025-06-05 16:14:23
+        )
+
+)
+

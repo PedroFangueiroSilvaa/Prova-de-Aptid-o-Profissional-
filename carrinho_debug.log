@@ -1,0 +1,186 @@
+[2025-06-04 10:56:59] Script inicializado
+[2025-06-04 10:56:59] Requisição POST recebida
+[2025-06-04 10:56:59] Dados recebidos: codigo_base=1014, id_categoria=8, id_marca=1, codigo_cor=8002, codigo_tamanho=4021, quantidade=1
+[2025-06-04 10:56:59] SKU gerado: 1014/8/1/8002/4021, Stock disponível: 997
+[2025-06-04 10:56:59] Informações do usuário: id_utilizador=5, session_id=NULL
+[2025-06-04 10:56:59] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1014/8/1/8002/4021' AND id_utilizador = '5'
+[2025-06-04 10:56:59] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 10:56:59] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('5', NULL, '1014/8/1/8002/4021', 1)
+[2025-06-04 10:56:59] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 11:04:04] Script inicializado
+[2025-06-04 11:04:04] Requisição POST recebida
+[2025-06-04 11:04:04] Dados recebidos: codigo_base=1008, id_categoria=5, id_marca=1, codigo_cor=8005, codigo_tamanho=4015, quantidade=1
+[2025-06-04 11:04:04] SKU gerado: 1008/5/1/8005/4015, Stock disponível: 1000
+[2025-06-04 11:04:04] Informações do usuário: id_utilizador=5, session_id=NULL
+[2025-06-04 11:04:04] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1008/5/1/8005/4015' AND id_utilizador = '5'
+[2025-06-04 11:04:04] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 11:04:04] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('5', NULL, '1008/5/1/8005/4015', 1)
+[2025-06-04 11:04:04] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 15:02:04] Script inicializado
+[2025-06-04 15:02:04] Requisição POST recebida
+[2025-06-04 15:02:04] Dados recebidos: codigo_base=1015-9002-3008, id_categoria=3008, id_marca=9002, codigo_cor=8001, codigo_tamanho=4015, quantidade=4
+[2025-06-04 15:02:04] SKU gerado: 1015-9002-3008/3008/9002/8001/4015, Stock disponível: 40
+[2025-06-04 15:02:04] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 15:02:04] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1015-9002-3008/3008/9002/8001/4015' AND id_utilizador = '4'
+[2025-06-04 15:02:04] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 15:02:04] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1015-9002-3008/3008/9002/8001/4015', 4)
+[2025-06-04 15:02:04] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 15:53:08] Script inicializado
+[2025-06-04 15:53:08] Requisição POST recebida
+[2025-06-04 15:53:08] Dados recebidos: codigo_base=1003-9002-30, id_categoria=3002, id_marca=9002, codigo_cor=8000, codigo_tamanho=4006, quantidade=5
+[2025-06-04 15:53:08] SKU gerado: 1003-9002-30/3002/9002/8000/4006, Stock disponível: 8
+[2025-06-04 15:53:08] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 15:53:08] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1003-9002-30/3002/9002/8000/4006' AND id_utilizador = '4'
+[2025-06-04 15:53:08] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 15:53:08] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1003-9002-30/3002/9002/8000/4006', 5)
+[2025-06-04 15:53:08] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 15:56:22] Script inicializado
+[2025-06-04 15:56:22] Requisição POST recebida
+[2025-06-04 15:56:22] Dados recebidos: codigo_base=1005-9004-30, id_categoria=3003, id_marca=9004, codigo_cor=8001, codigo_tamanho=4015, quantidade=1
+[2025-06-04 15:56:22] SKU gerado: 1005-9004-30/3003/9004/8001/4015, Stock disponível: 100
+[2025-06-04 15:56:22] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 15:56:22] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1005-9004-30/3003/9004/8001/4015' AND id_utilizador = '4'
+[2025-06-04 15:56:22] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 15:56:22] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1005-9004-30/3003/9004/8001/4015', 1)
+[2025-06-04 15:56:22] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 16:02:24] Script inicializado
+[2025-06-04 16:02:24] Requisição POST recebida
+[2025-06-04 16:02:24] Dados recebidos: codigo_base=1007-9002-30, id_categoria=3004, id_marca=9002, codigo_cor=8000, codigo_tamanho=4021, quantidade=5
+[2025-06-04 16:02:24] SKU gerado: 1007-9002-30/3004/9002/8000/4021, Stock disponível: 60
+[2025-06-04 16:02:24] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 16:02:24] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1007-9002-30/3004/9002/8000/4021' AND id_utilizador = '4'
+[2025-06-04 16:02:24] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 16:02:24] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1007-9002-30/3004/9002/8000/4021', 5)
+[2025-06-04 16:02:24] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 16:46:11] Script inicializado
+[2025-06-04 16:46:11] Requisição POST recebida
+[2025-06-04 16:46:11] Dados recebidos: codigo_base=1005-9004-3003, id_categoria=3003, id_marca=9004, codigo_cor=8001, codigo_tamanho=4015, quantidade=7
+[2025-06-04 16:46:11] SKU gerado: 1005-9004-3003/3003/9004/8001/4015, Stock disponível: 100
+[2025-06-04 16:46:11] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 16:46:11] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1005-9004-3003/3003/9004/8001/4015' AND id_utilizador = '4'
+[2025-06-04 16:46:11] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 16:46:11] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1005-9004-3003/3003/9004/8001/4015', 7)
+[2025-06-04 16:46:11] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-04 16:51:45] Script inicializado
+[2025-06-04 16:51:45] Requisição POST recebida
+[2025-06-04 16:51:45] Dados recebidos: codigo_base=1001-9002-3001, id_categoria=3001, id_marca=9002, codigo_cor=8001, codigo_tamanho=4003, quantidade=6
+[2025-06-04 16:51:45] SKU gerado: 1001-9002-3001/3001/9002/8001/4003, Stock disponível: 75
+[2025-06-04 16:51:45] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-04 16:51:45] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1001-9002-3001/3001/9002/8001/4003' AND id_utilizador = '4'
+[2025-06-04 16:51:45] Resultado da verificação: Produto não está no carrinho
+[2025-06-04 16:51:45] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1001-9002-3001/3001/9002/8001/4003', 6)
+[2025-06-04 16:51:45] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 10:09:09] Script inicializado
+[2025-06-05 10:09:09] Requisição POST recebida
+[2025-06-05 10:09:09] Dados recebidos: codigo_base=1005-9004-3003, id_categoria=3003, id_marca=9004, codigo_cor=8002, codigo_tamanho=4015, quantidade=4
+[2025-06-05 10:09:09] SKU gerado: 1005-9004-3003/3003/9004/8002/4015, Stock disponível: 110
+[2025-06-05 10:09:09] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 10:09:09] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1005-9004-3003/3003/9004/8002/4015' AND id_utilizador = '4'
+[2025-06-05 10:09:09] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 10:09:09] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1005-9004-3003/3003/9004/8002/4015', 4)
+[2025-06-05 10:09:09] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 10:54:13] Script inicializado
+[2025-06-05 10:54:13] Requisição POST recebida
+[2025-06-05 10:54:13] Dados recebidos: codigo_base=1005-9004-3003, id_categoria=3003, id_marca=9004, codigo_cor=8001, codigo_tamanho=4015, quantidade=1
+[2025-06-05 10:54:13] SKU gerado: 1005-9004-3003/3003/9004/8001/4015, Stock disponível: 100
+[2025-06-05 10:54:13] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 10:54:13] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1005-9004-3003/3003/9004/8001/4015' AND id_utilizador = '4'
+[2025-06-05 10:54:13] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 10:54:13] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1005-9004-3003/3003/9004/8001/4015', 1)
+[2025-06-05 10:54:13] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 10:57:41] Script inicializado
+[2025-06-05 10:57:41] Requisição POST recebida
+[2025-06-05 10:57:41] Dados recebidos: codigo_base=1014-9001-3008, id_categoria=3008, id_marca=9001, codigo_cor=8002, codigo_tamanho=4021, quantidade=1
+[2025-06-05 10:57:41] SKU gerado: 1014-9001-3008/3008/9001/8002/4021, Stock disponível: 30
+[2025-06-05 10:57:41] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 10:57:41] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1014-9001-3008/3008/9001/8002/4021' AND id_utilizador = '4'
+[2025-06-05 10:57:41] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 10:57:41] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1014-9001-3008/3008/9001/8002/4021', 1)
+[2025-06-05 10:57:41] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 13:40:51] Script inicializado
+[2025-06-05 13:40:51] Requisição POST recebida
+[2025-06-05 13:40:51] Dados recebidos: codigo_base=1006-9001-3004, id_categoria=3004, id_marca=9001, codigo_cor=8000, codigo_tamanho=4021, quantidade=5
+[2025-06-05 13:40:51] SKU gerado: 1006-9001-3004/3004/9001/8000/4021, Stock disponível: 40
+[2025-06-05 13:40:51] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 13:40:51] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1006-9001-3004/3004/9001/8000/4021' AND id_utilizador = '4'
+[2025-06-05 13:40:51] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 13:40:51] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1006-9001-3004/3004/9001/8000/4021', 5)
+[2025-06-05 13:40:51] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 13:46:30] Script inicializado
+[2025-06-05 13:46:30] Requisição POST recebida
+[2025-06-05 13:46:30] Dados recebidos: codigo_base=1006-9001-3004, id_categoria=, id_marca=, codigo_cor=8001, codigo_tamanho=4022, quantidade=4
+[2025-06-05 13:47:03] Script inicializado
+[2025-06-05 13:47:03] Requisição POST recebida
+[2025-06-05 13:47:03] Dados recebidos: codigo_base=1005-9004-3003, id_categoria=, id_marca=, codigo_cor=8001, codigo_tamanho=4015, quantidade=1
+[2025-06-05 13:48:03] Script inicializado
+[2025-06-05 13:48:03] Requisição POST recebida
+[2025-06-05 13:48:03] Dados recebidos: codigo_base=1005-9004-3003, codigo_cor=8000, codigo_tamanho=4015, quantidade=1
+[2025-06-05 13:48:03] SKU obtido: 1005-9004-3003-4015-8000, Stock disponível: 119
+[2025-06-05 13:48:03] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 13:48:03] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1005-9004-3003-4015-8000' AND id_utilizador = '4'
+[2025-06-05 13:48:03] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 13:48:03] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1005-9004-3003-4015-8000', 1)
+[2025-06-05 13:48:03] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 13:50:48] Script inicializado
+[2025-06-05 13:50:48] Requisição POST recebida
+[2025-06-05 13:50:48] Dados recebidos: codigo_base=1014-9001-3008, codigo_cor=8000, codigo_tamanho=4022, quantidade=3
+[2025-06-05 13:50:48] SKU obtido: 1014-9001-3008-4022-8000, Stock disponível: 20
+[2025-06-05 13:50:48] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 13:50:48] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1014-9001-3008-4022-8000' AND id_utilizador = '4'
+[2025-06-05 13:50:48] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 13:50:48] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1014-9001-3008-4022-8000', 3)
+[2025-06-05 13:50:48] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 14:08:11] Script inicializado
+[2025-06-05 14:08:11] Requisição POST recebida
+[2025-06-05 14:08:11] Dados recebidos: codigo_base=1002-9001-3002, codigo_cor=8001, codigo_tamanho=4005, quantidade=1
+[2025-06-05 14:08:11] SKU obtido: 1002-9001-3002-4005-8001, Stock disponível: 8
+[2025-06-05 14:08:11] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 14:08:11] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1002-9001-3002-4005-8001' AND id_utilizador = '4'
+[2025-06-05 14:08:11] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 14:08:11] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1002-9001-3002-4005-8001', 1)
+[2025-06-05 14:08:11] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 16:22:35] Script inicializado
+[2025-06-05 16:22:35] Requisição POST recebida
+[2025-06-05 16:22:35] Dados recebidos: codigo_base=1002-9001-3002, codigo_cor=8000, codigo_tamanho=4005, quantidade=1
+[2025-06-05 16:22:35] SKU obtido: 1002-9001-3002-4005-8000, Stock disponível: 1000
+[2025-06-05 16:22:35] Informações do usuário: id_utilizador=NULL, session_id=vscgnhei59d9t4uf4gk40s34np
+[2025-06-05 16:22:35] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1002-9001-3002-4005-8000' AND session_id = 'vscgnhei59d9t4uf4gk40s34np'
+[2025-06-05 16:22:35] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 16:22:35] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES (NULL, 'vscgnhei59d9t4uf4gk40s34np', '1002-9001-3002-4005-8000', 1)
+[2025-06-05 16:22:35] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 16:48:20] Script inicializado
+[2025-06-05 16:48:20] Requisição POST recebida
+[2025-06-05 16:48:20] Dados recebidos: codigo_base=1000-9001-3001, codigo_cor=8000, codigo_tamanho=4002, quantidade=1
+[2025-06-05 16:48:20] SKU obtido: 1000-9001-3001-4002-8000, Stock disponível: 1000
+[2025-06-05 16:48:20] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 16:48:20] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1000-9001-3001-4002-8000' AND id_utilizador = '4'
+[2025-06-05 16:48:20] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 16:48:20] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1000-9001-3001-4002-8000', 1)
+[2025-06-05 16:48:20] Operação bem-sucedida: produto adicionado/atualizado no carrinho
+[2025-06-05 17:14:23] Script inicializado
+[2025-06-05 17:14:23] Requisição POST recebida
+[2025-06-05 17:14:23] Dados recebidos: codigo_base=1012-9001-3007, codigo_cor=8000, codigo_tamanho=4011, quantidade=1
+[2025-06-05 17:14:23] SKU obtido: 1012-9001-3007-4011-8000, Stock disponível: 1000
+[2025-06-05 17:14:23] Informações do usuário: id_utilizador=4, session_id=NULL
+[2025-06-05 17:14:23] SQL verificar carrinho: SELECT quantidade FROM carrinho WHERE sku = '1012-9001-3007-4011-8000' AND id_utilizador = '4'
+[2025-06-05 17:14:23] Resultado da verificação: Produto não está no carrinho
+[2025-06-05 17:14:23] SQL inserir no carrinho: INSERT INTO carrinho (id_utilizador, session_id, sku, quantidade) 
+                               VALUES ('4', NULL, '1012-9001-3007-4011-8000', 1)
+[2025-06-05 17:14:23] Operação bem-sucedida: produto adicionado/atualizado no carrinho

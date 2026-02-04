@@ -1,0 +1,64 @@
+[2025-06-04 11:40:26] Acessando página de sucesso com session_id: cs_test_a1KybGnOmKcJAEWyZryAvoD9ROVlHQgvBTuNxgiQWu5bt3QSumnSWTsDLE, encomenda: 32
+[2025-06-04 11:40:26] Tentando recuperar sessão do Stripe: cs_test_a1KybGnOmKcJAEWyZryAvoD9ROVlHQgvBTuNxgiQWu5bt3QSumnSWTsDLE
+[2025-06-04 11:40:27] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 11:40:27] Pagamento confirmado como pago para encomenda 32
+[2025-06-04 11:40:27] Local de envio encontrado: cala-te
+[2025-06-04 15:11:14] Acessando página de sucesso com session_id: cs_test_a16qqlx5b99Xb910qXlFR05tJtMP7guH5tfijJzYR62RlmpIeLBgfI8X6I, encomenda: 7
+[2025-06-04 15:11:14] Tentando recuperar sessão do Stripe: cs_test_a16qqlx5b99Xb910qXlFR05tJtMP7guH5tfijJzYR62RlmpIeLBgfI8X6I
+[2025-06-04 15:11:14] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 15:11:14] Pagamento confirmado como pago para encomenda 7
+[2025-06-04 15:53:29] Acessando página de sucesso com session_id: cs_test_a1WsKep4E0ejNTwFZ5jBvqMb4OHODTdbcbXYcSt57NOlk1mfh1Xq7TIwgQ, encomenda: 33
+[2025-06-04 15:53:29] Tentando recuperar sessão do Stripe: cs_test_a1WsKep4E0ejNTwFZ5jBvqMb4OHODTdbcbXYcSt57NOlk1mfh1Xq7TIwgQ
+[2025-06-04 15:53:29] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 15:53:29] Pagamento confirmado como pago para encomenda 33
+[2025-06-04 15:53:29] Local de envio encontrado: ola
+[2025-06-04 15:56:38] Acessando página de sucesso com session_id: cs_test_a133Fd2vJF7F8eAw9HMLSO0Szm2yAJ6oyQ1yvKf727Wn6jtya2dJxxA0VD, encomenda: 34
+[2025-06-04 15:56:38] Tentando recuperar sessão do Stripe: cs_test_a133Fd2vJF7F8eAw9HMLSO0Szm2yAJ6oyQ1yvKf727Wn6jtya2dJxxA0VD
+[2025-06-04 15:56:38] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 15:56:38] Pagamento confirmado como pago para encomenda 34
+[2025-06-04 15:56:38] Local de envio encontrado: ola
+[2025-06-04 16:06:16] Acessando página de sucesso com session_id: cs_test_a1dRGpWKEOS1xwKEnrMzqMstlJsokOLZDZF0CqlOXXnZdsMUOWoFOGhNqk, encomenda: 35
+[2025-06-04 16:06:16] Tentando recuperar sessão do Stripe: cs_test_a1dRGpWKEOS1xwKEnrMzqMstlJsokOLZDZF0CqlOXXnZdsMUOWoFOGhNqk
+[2025-06-04 16:06:16] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 16:06:16] Pagamento confirmado como pago para encomenda 35
+[2025-06-04 16:06:16] Local de envio encontrado: ola
+[2025-06-04 16:46:43] Acessando página de sucesso com session_id: cs_test_a1Sqy3ym0FzT7vB2mI6pqqbLXsNbJdnapSkumj3JhQDGdyS2l061GIAbJ3, encomenda: 4
+[2025-06-04 16:46:43] Tentando recuperar sessão do Stripe: cs_test_a1Sqy3ym0FzT7vB2mI6pqqbLXsNbJdnapSkumj3JhQDGdyS2l061GIAbJ3
+[2025-06-04 16:46:44] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 16:46:44] Pagamento confirmado como pago para encomenda 4
+[2025-06-04 16:46:44] Local de envio encontrado: 
+[2025-06-04 16:51:15] Acessando página de sucesso com session_id: cs_test_a1Sqy3ym0FzT7vB2mI6pqqbLXsNbJdnapSkumj3JhQDGdyS2l061GIAbJ3, encomenda: 4
+[2025-06-04 16:51:15] Tentando recuperar sessão do Stripe: cs_test_a1Sqy3ym0FzT7vB2mI6pqqbLXsNbJdnapSkumj3JhQDGdyS2l061GIAbJ3
+[2025-06-04 16:51:16] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-04 16:51:16] Pagamento confirmado como pago para encomenda 4
+[2025-06-04 16:51:16] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 10:38:21] Acessando página de sucesso com session_id: cs_test_a1DysLZBsaH0DeIR0Bq5ScKZVSgvaHz4kG8o84ZQdjrdQGcOFDRDJdK5hA, encomenda: 7
+[2025-06-05 10:38:21] Tentando recuperar sessão do Stripe: cs_test_a1DysLZBsaH0DeIR0Bq5ScKZVSgvaHz4kG8o84ZQdjrdQGcOFDRDJdK5hA
+[2025-06-05 10:38:22] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 10:38:22] Pagamento confirmado como pago para encomenda 7
+[2025-06-05 10:38:22] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 10:53:07] Acessando página de sucesso com session_id: cs_test_a1bgMxgdf26LeQoNMOtpdVktRymZtfOPB2UCcSunzrS1o3GyBxyAJOLLW0, encomenda: 9
+[2025-06-05 10:53:07] Tentando recuperar sessão do Stripe: cs_test_a1bgMxgdf26LeQoNMOtpdVktRymZtfOPB2UCcSunzrS1o3GyBxyAJOLLW0
+[2025-06-05 10:53:09] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 10:53:09] Pagamento confirmado como pago para encomenda 9
+[2025-06-05 10:53:09] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 10:54:22] Acessando página de sucesso com session_id: cs_test_a10JOnOFvFfkk4BVG7XeUmbgxQ6HFTkf4Mc1Ayz4TkhGd6XMEzoDFaD8qh, encomenda: 10
+[2025-06-05 10:54:22] Tentando recuperar sessão do Stripe: cs_test_a10JOnOFvFfkk4BVG7XeUmbgxQ6HFTkf4Mc1Ayz4TkhGd6XMEzoDFaD8qh
+[2025-06-05 10:54:23] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 10:54:23] Pagamento confirmado como pago para encomenda 10
+[2025-06-05 10:54:23] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 10:57:54] Acessando página de sucesso com session_id: cs_test_a1VixB7pkT14l7eORvGVsbHA8Nw9BKe78d7AGN8Sms93SJ3aj2JQO3XAaf, encomenda: 11
+[2025-06-05 10:57:54] Tentando recuperar sessão do Stripe: cs_test_a1VixB7pkT14l7eORvGVsbHA8Nw9BKe78d7AGN8Sms93SJ3aj2JQO3XAaf
+[2025-06-05 10:57:55] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 10:57:55] Pagamento confirmado como pago para encomenda 11
+[2025-06-05 10:57:55] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 14:31:16] Acessando página de sucesso com session_id: cs_test_a1ZCqwnVnpvza0iVbuIy1y5ho8WbP90aQodOZhgpPcS2dHAU0TGRxWDjYp, encomenda: 17
+[2025-06-05 14:31:16] Tentando recuperar sessão do Stripe: cs_test_a1ZCqwnVnpvza0iVbuIy1y5ho8WbP90aQodOZhgpPcS2dHAU0TGRxWDjYp
+[2025-06-05 14:31:17] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 14:31:17] Pagamento confirmado como pago para encomenda 17
+[2025-06-05 14:31:17] Local de envio encontrado: Rua do Sol, 321
+[2025-06-05 16:49:07] Acessando página de sucesso com session_id: cs_test_a1KRYyYIbeu5Q6VptYiUvgh4zKkeqkckQ7Ygu5YJkrO6u0sDVTlEFFd3Dh, encomenda: 18
+[2025-06-05 16:49:07] Tentando recuperar sessão do Stripe: cs_test_a1KRYyYIbeu5Q6VptYiUvgh4zKkeqkckQ7Ygu5YJkrO6u0sDVTlEFFd3Dh
+[2025-06-05 16:49:08] Sessão recuperada com sucesso. Status de pagamento: paid
+[2025-06-05 16:49:08] Pagamento confirmado como pago para encomenda 18
+[2025-06-05 16:49:08] Local de envio encontrado: Rua do Sol, 321
