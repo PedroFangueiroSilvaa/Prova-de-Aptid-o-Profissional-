@@ -1,0 +1,9 @@
+// Configurações adicionais para o Stripe
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/StripeApplePay" "${PODS_ROOT}/StripeCore" "${PODS_ROOT}/StripePayments" "${PODS_ROOT}/StripePaymentSheet" "${PODS_ROOT}/StripePaymentsUI" "${PODS_ROOT}/StripeUICore"
+
+// Certifica-se de que os frameworks podem ser encontrados durante a execução
+LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks @loader_path/Frameworks
+
+// Desabilita a assinatura para facilitar o build
+CODE_SIGN_IDENTITY = 
+CODE_SIGNING_REQUIRED = NO

@@ -1,0 +1,27 @@
+platform :ios, '14.0'
+install! 'cocoapods', :deterministic_uuids => false
+
+target 'boxingforlife' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  
+  # Stripe Payment Sheet (principal componente de pagamento)
+  pod 'StripePaymentSheet'
+
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+      
+      # Resolve problemas de assinatura
+      config.build_settings['CODE_SIGNING_ALLOWED'] = 'NO'
+      config.build_settings['CODE_SIGNING_REQUIRED'] = 'NO'
+      
+      # Evita erros de PIF transfer
+      config.build_settings['DEAD_CODE_STRIPPING'] = 'YES'
+      config.build_settings['ONLY_ACTIVE_ARCH'] = 'NO'
+    end
+  end
+end

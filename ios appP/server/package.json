@@ -1,0 +1,24 @@
+{
+  "name": "boxingforlife-server",
+  "version": "1.0.0",
+  "description": "Boxing For Life Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "multer": "^2.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "nodemailer": "^7.0.5",
+    "nodemon": "^3.1.0",
+    "stripe": "^18.0.0"
+  }
+}
