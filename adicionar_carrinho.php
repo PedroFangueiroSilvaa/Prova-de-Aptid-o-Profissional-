@@ -20,6 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $codigoCor = $_POST['codigo_cor'] ?? '';
     $codigoTamanho = $_POST['codigo_tamanho'] ?? '';
     $quantidade = (int)($_POST['quantidade'] ?? 0);
+
     
     log_debug("Dados recebidos: codigo_base=$codigoBase, codigo_cor=$codigoCor, codigo_tamanho=$codigoTamanho, quantidade=$quantidade");
     
